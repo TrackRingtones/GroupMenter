@@ -99,7 +99,7 @@ buttons = [
     ],
 ]
 
-GroupMenter_IMG = "https://telegra.ph/file/8e4fbdd079b59a12b1a7b.jpg"
+GroupMenter_IMG = "CAACAgEAAxkBAAEDcB9hsMDu1ntHf-dUIymO-EwxYSqzuQACbwIAAunCiUU_YJqw1cxsGCME"
 
 HELP_STRINGS = """
 Hey There! My name is Thunder GoHelp.
