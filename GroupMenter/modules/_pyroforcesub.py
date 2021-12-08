@@ -197,6 +197,6 @@ __help__ = """
  ❍ /fsub disable - To turn of ForceSubscribe..
   💡If you disable fsub, you need to set again for working.. /fsub {channel username} 
  ❍ /fsub clear - To unmute all members who muted by me.
-<b> Powered by :- Thunder Team
+<b> Powered by :- Thunder Team </b>
 """
 __mod_name__ = "F SUB"
