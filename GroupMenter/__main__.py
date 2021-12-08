@@ -99,7 +99,7 @@ buttons = [
     ],
 ]
 
-GroupMenter_IMG = "CAACAgEAAxkBAAEDcB9hsMDu1ntHf-dUIymO-EwxYSqzuQACbwIAAunCiUU_YJqw1cxsGCME"
+STICKER_ID = "CAACAgEAAxkBAAEDcB9hsMDu1ntHf-dUIymO-EwxYSqzuQACbwIAAunCiUU_YJqw1cxsGCME"
 
 HELP_STRINGS = """
 Hey There! My name is Thunder GoHelp.
