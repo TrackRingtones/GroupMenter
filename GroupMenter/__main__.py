@@ -72,6 +72,9 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
+START_IMG = (
+    "https://telegra.ph/file/c2f6c25ebd4e20ea2fc25.jpg",
+)
 
 PM_START_TEXT = """
 Hey there! My name is Thunder GoHelp.
