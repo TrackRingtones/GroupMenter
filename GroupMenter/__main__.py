@@ -82,7 +82,7 @@ I'm an powerful advance Group Management Bot I got Updated From
 V3.6.9 Now I am updated to V4.2.0
 
 Type /help to find out more about how to use me to my full potential.
-Bot Version :- V4.2.0
+Bot Version :- V4.2.0.
 Status :- Active
 """
 
