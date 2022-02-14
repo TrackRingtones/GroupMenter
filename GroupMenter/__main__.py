@@ -106,7 +106,7 @@ STICKER_ID = "CAACAgEAAxkBAAEDcB9hsMDu1ntHf-dUIymO-EwxYSqzuQACbwIAAunCiUU_YJqw1c
 
 HELP_STRINGS = """
 Hey There! My name is Thunder GoHelp.
-I'm a powerful advance Group management Bot I got Updated From V3.6.9 Now I am updated to 4.2.0
+I'm a powerful advance Group management Bot yeah I got Updated From V3.6.9 Now I am updated to 4.2.0
 
 Commands available:
 × /start: Start the bot
